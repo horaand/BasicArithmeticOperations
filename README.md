@@ -71,3 +71,6 @@ Input second number:
 
 * Die Division verwendet **Ganzzahldivision** (`int`), d. h. Nachkommastellen werden **nicht angezeigt**. Beispiel: `5 / 2 = 2` (nicht `2.5`).
 
+Diese Übung basiert auf Aufgaben von [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)  
+
+Die Lösungen wurden selbstständig von mir entwickelt und sind nur für Lernzwecke gedacht.
